@@ -1,2 +1,3 @@
 # EndTrim
-A tool for UMI adaptor trimming in 3' end of NGS data
+A tool for removing UMI adaptor sequences in 3' end of Illumina NGS data.
+
